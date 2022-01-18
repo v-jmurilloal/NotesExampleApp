@@ -1,0 +1,11 @@
+C:\Users\v-jmurilloal\source\repos\NotesExampleApp\bin\Debug\NotesExampleApp.exe.config
+C:\Users\v-jmurilloal\source\repos\NotesExampleApp\bin\Debug\NotesExampleApp.exe
+C:\Users\v-jmurilloal\source\repos\NotesExampleApp\bin\Debug\NotesExampleApp.pdb
+C:\Users\v-jmurilloal\source\repos\NotesExampleApp\obj\Debug\NotesExampleApp.csproj.AssemblyReference.cache
+C:\Users\v-jmurilloal\source\repos\NotesExampleApp\obj\Debug\NotesExampleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\v-jmurilloal\source\repos\NotesExampleApp\obj\Debug\NotesExampleApp.Properties.Resources.resources
+C:\Users\v-jmurilloal\source\repos\NotesExampleApp\obj\Debug\NotesExampleApp.csproj.GenerateResource.cache
+C:\Users\v-jmurilloal\source\repos\NotesExampleApp\obj\Debug\NotesExampleApp.csproj.CoreCompileInputs.cache
+C:\Users\v-jmurilloal\source\repos\NotesExampleApp\obj\Debug\NotesExampleApp.exe
+C:\Users\v-jmurilloal\source\repos\NotesExampleApp\obj\Debug\NotesExampleApp.pdb
+C:\Users\v-jmurilloal\source\repos\NotesExampleApp\obj\Debug\NotesExampleApp.Form1.resources
